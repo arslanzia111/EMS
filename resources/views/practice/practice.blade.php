@@ -7,7 +7,7 @@
 <form method="get" action="">
                 @csrf
                 <div class="row">
-                    <div class="col-md-3 px-1">
+                    <div class="col-md-3 px-1"> 
                       <div class="form-group">
                         <label><b>Name</b></label>
                         <input type="text" class="form-control" name="name" placeholder="name" value="">
